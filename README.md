@@ -1,4 +1,4 @@
-# SimpleNodeServer
+# Simple Node Server
 <br><br>
 # To run:
 1) Make sure node.js and npm are installed on your machine 
