@@ -1,5 +1,4 @@
 # Simple Node Server
-<br>
 <h3>To run:</h3>
 1) Make sure node.js and npm are installed on your machine 
 2) To start the server in terminal: node pathToProject/server.js
